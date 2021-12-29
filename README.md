@@ -8,7 +8,7 @@
 
 
 
-[![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/icon.png)](
+[![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/icon.png)](https://play.google.com/store/apps/details?id=com.shadow.dev.with_temim)
 
 # Android Application: Tout-En-Un (All-in-one)
 
@@ -21,7 +21,7 @@ Les codes sont affichés d'une manière simple, et le lancement des appels est d
 
 
 ### _Play store link:_
-[![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/goo.png)]
+[![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/goo.png)](https://play.google.com/store/apps/details?id=com.shadow.dev.with_temim)
 
 
 # Screenshot:
