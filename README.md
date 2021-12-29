@@ -1,22 +1,17 @@
-# (JAVA) Video-App
-(JAVA) Video-App
 
-
-
-# Android Application Tout-En-Un
-(JAVA) Android Application Tout-En-Un
+# Android Video-App
+(JAVA) Android Application Video-App
 
 
 
 [![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/icon.png)](https://play.google.com/store/apps/details?id=com.shadow.dev.with_temim)
 
-# Android Application: Tout-En-Un (All-in-one)
+# Android Application: Video-App
 
 **KEYWORDS:** JAVA, Android Studio, Windows 10, HTML & CSS, Firebase.  
 
 ## Description:
-Une application qui inclut tous les codes USSD de tous les opérateurs téléphoniques tunisiens (Orange, Ooredoo, Tunisie telecom). <br>
-Les codes sont affichés d'une manière simple, et le lancement des appels est direct et très simple.
+Une simple application pour afficher les vidéos du grand poète Tamim Al-barghouti. Les vidéos sont affichées d'une manière simple et claire. 
  
 
 
