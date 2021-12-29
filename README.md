@@ -8,7 +8,7 @@
 
 
 
-[![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Tout-En-Un/blob/main/images/icon.png)](https://play.google.com/store/apps/details?id=com.gtari.deltatechenologie.elkolxelkol)
+[![](https://github.com/ELGTARI-Saif-Eddine/Video-App/tree/main/images/icon.png)](https://play.google.com/store/apps/details?id=com.gtari.deltatechenologie.elkolxelkol)
 
 # Android Application: Tout-En-Un (All-in-one)
 
@@ -21,16 +21,15 @@ Les codes sont affichés d'une manière simple, et le lancement des appels est d
 
 
 ### _Play store link:_
-[![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Tout-En-Un/blob/main/images/goo.png)](https://play.google.com/store/apps/details?id=com.gtari.deltatechenologie.elkolxelkol)
+[![](https://github.com/ELGTARI-Saif-Eddine/Video-App/tree/main/images/goo.png)](https://play.google.com/store/apps/details?id=com.gtari.deltatechenologie.elkolxelkol)
 
 
 
 # Screenshot:
-![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Tout-En-Un/blob/main/images/unnamed.png)
-![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Tout-En-Un/blob/main/images/unnamed1.png)
-![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Tout-En-Un/blob/main/images/unnamed1.png)
-![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Tout-En-Un/blob/main/images/unnamed3.png)
-![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Tout-En-Un/blob/main/images/unnamed4.png)
+![](https://github.com/ELGTARI-Saif-Eddine/Video-App/tree/main/images/unnamed1.png)
+![](https://github.com/ELGTARI-Saif-Eddine/Video-App/tree/main/images/unnamed2.png)
+![](https://github.com/ELGTARI-Saif-Eddine/Video-App/tree/main/images/unnamed3.png)
+![](https://github.com/ELGTARI-Saif-Eddine/Video-App/tree/main/images/unnamed4.png)
 
 
 
