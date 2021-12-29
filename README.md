@@ -21,7 +21,7 @@ Les codes sont affichés d'une manière simple, et le lancement des appels est d
 
 
 ### _Play store link:_
-[![](https://github.com/ELGTARI-Saif-Eddine/Video-App/tree/main/images/goo.png)](https://play.google.com/store/apps/details?id=com.gtari.deltatechenologie.elkolxelkol)
+[![](https://github.com/ELGTARI-Saif-Eddine/Video-App/blob/main/images/goo.png)](https://play.google.com/store/apps/details?id=com.gtari.deltatechenologie.elkolxelkol)
 
 
 
