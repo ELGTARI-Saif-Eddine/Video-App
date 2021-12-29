@@ -8,7 +8,7 @@
 
 # Android Application: Video-App
 
-**KEYWORDS:** JAVA, Android Studio, Windows 10, HTML & CSS, Firebase.  
+**KEYWORDS:** JAVA, Android Studio, Windows 10, HTML & CSS, Firebase, Photoshop.  
 
 ## Description:
 Une simple application pour afficher les vidéos du grand poète Tamim Al-barghouti. Les vidéos sont affichées d'une manière simple et claire. 
